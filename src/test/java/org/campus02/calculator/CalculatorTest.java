@@ -25,6 +25,6 @@ class CalculatorTest {
 
     @Test
     void multiply() {
-        Assertions.assertEquals(6, Calculator.subtract(2,3));
+        Assertions.assertEquals(6, Calculator.multiply(2,3));
     }
 }
